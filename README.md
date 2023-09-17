@@ -1,4 +1,4 @@
 # apnacollege-demp
 This is my first repository.
 <br>
-Author- Vikram Singh
+Author- Vikram Singh(vs)
